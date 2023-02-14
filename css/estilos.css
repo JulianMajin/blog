@@ -13,9 +13,10 @@
     color: blue;
 }
 .main{
+    padding: 10px 5px 5px 5px;
     background-color: whitesmoke;
     color: black;
     text-align: center;
-    width: auto;
-    
+    width: 400px;
+    margin: auto;
 }
