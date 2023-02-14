@@ -1,3 +1,14 @@
 .header{
     background-color: aqua;
 }
+
+.main h1{
+    color: blue;
+}
+.main{
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    width: auto;
+    
+}
