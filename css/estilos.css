@@ -1,3 +1,10 @@
 .header{
-    background-color: aqua;
+    text-align: center;
+    background-color: blue;
+    color: #fff;
+    width: 500px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 25px;
+    font-size: 26px;
 }
